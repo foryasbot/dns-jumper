@@ -13,9 +13,6 @@ Once Homebrew is installed, you can install dig by installing the bind package, 
 
 	brew install bind
  
-Once Homebrew is installed, you can install dig by installing the bind package, which includes dig. Run the following command in Terminal:
-brew install bind
-
 # Run dns-jumper
 	sudo chmod +x dns-jumper.sh
 	./dns-jumper.sh
