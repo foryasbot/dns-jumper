@@ -1,5 +1,6 @@
 # dns-jumper
 dns-jumper find and set fastest dns for mac
+contain +50 popular dns
 # requirements
 Install Homebrew (if you don’t already have it):
 Open the Terminal application and run the following command to install Homebrew:
